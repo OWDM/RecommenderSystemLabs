@@ -10,16 +10,16 @@ The lab exercises are located in the `docs` folder. Each lab includes detailed i
   - implementation of the code examples and exercises 
 
 
-- **Lab 2: **
+- **Lab 2:**
 
 
-- **Lab 3: **
+- **Lab 3:**
 
 
-- **Lab 4: **
+- **Lab 4:**
 
 
-- **Lab 5: **
+- **Lab 5:**
 
 
 ## Getting Started
