@@ -7,10 +7,12 @@ This repository contains a series of lab exercises designed to explore the funda
 The lab exercises are located in the `docs` folder. Each lab includes detailed instructions and necessary datasets to complete the exercises.
 
 - **Lab 1: fundamental aspects of Pandas DataFrames.**
-  - implementation of the code examples and exercises 
+  - implementation of the code examples and exercises
+  - from this website https://realpython.com/pandas-dataframe/#introducing-the-pandas-dataframe
 
 
 - **Lab 2:**
+- Simple Recommender System using Pandas with movie data analysis, including data import, weighted rating calculations, and basic filtering.
 
 
 - **Lab 3:**
