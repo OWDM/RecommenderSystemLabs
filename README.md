@@ -12,6 +12,7 @@ The lab exercises are located in the `docs` folder. Each lab includes detailed i
 
 
 - **Lab 2:**
+- Simple Recommender System using Pandas with movie data analysis, including data import, weighted rating calculations, and basic filtering.
 
 
 - **Lab 3:**
